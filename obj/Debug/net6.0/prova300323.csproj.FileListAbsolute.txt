@@ -1,0 +1,15 @@
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\bin\Debug\net6.0\prova300323.exe
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\bin\Debug\net6.0\prova300323.deps.json
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\bin\Debug\net6.0\prova300323.runtimeconfig.json
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\bin\Debug\net6.0\prova300323.dll
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\bin\Debug\net6.0\prova300323.pdb
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\obj\Debug\net6.0\prova300323.csproj.AssemblyReference.cache
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\obj\Debug\net6.0\prova300323.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\obj\Debug\net6.0\prova300323.AssemblyInfoInputs.cache
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\obj\Debug\net6.0\prova300323.AssemblyInfo.cs
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\obj\Debug\net6.0\prova300323.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\obj\Debug\net6.0\prova300323.dll
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\obj\Debug\net6.0\refint\prova300323.dll
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\obj\Debug\net6.0\prova300323.pdb
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\obj\Debug\net6.0\prova300323.genruntimeconfig.cache
+C:\Users\Gian\Documents\Faculdade\IFPR\TADS23\Orientação a Objeto\exercicios\prova300323\obj\Debug\net6.0\ref\prova300323.dll

@@ -1,0 +1,18 @@
+Ao rodar o programa ele irá iniciar pedindo algumas informações do veiculo sendo elas: longitude, latitude, situacaoMecanica, status, nome, 
+tanqueDeCombustivel, velocidade com esses dados ele irá instanciar a classe veiculo passando todos os campos que são necessários para o construtor.
+
+Eu optei por utilizar o método construtor para que seja atribuido os valores do veiculo assim que o objeto é instanciado, evitando assim que seja 
+esquecido algum valor ja que o C# irá alertar caso algum atributo esteja faltando para instanciar o objeto.
+
+Segundo o fichamento que fizemos, uma boa prática e tornar os atributos da classe privados utilizando os métodos get e set para manipular esses valores
+onde o get irá retornar o valor do atributo e o set irá atribuir um valor a ele, é utilizado esses métodos para que caso seja uma necessidade, aplicar
+validações disparo de funções etc, antes de atribuir ou obter o valor do atributo.
+
+Eu optei por não dividir em várias classes, pois para atender a necessidade da empresa, todos esses campos devem ser preenchidos para todos os veiculos,
+porém eu poderia criar por exemplo uma classe Veiculo, com as propriedades de Estado Mecanica, Velocidade, Tanque de Combustivel, nome e status, 
+uma outra classe para a localização contendo latitude e longitude, podendo assim extender essas classes.
+
+Criei também dois métodos para que sejam mostrados ao usuário o relatório de situação do veiculo e também sua posição, esses métodos montam uma mensagem
+com os dados do veiculo, retornando ao usuário um texto que é de fácil entendimento.
+
+Esses métodos podem ser chamados através de veiculo.relatorio() e veiculo.posicao()
